@@ -1,4 +1,11 @@
 <?php
+/*
+* PHP script for connecting to a MySQL database and displaying data in an HTML table.
+* Replace 'your_database' with your actual MySQL database name
+* Replace 'your_username' and 'your_password' with your actual MySQL database username and password.
+* Make sure to update the table name ('etudiant') and column names as needed.
+*/
+
 $host = 'localhost';
 $dbname = 'your_database';
 $username = 'your_username';
